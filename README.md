@@ -1,4 +1,4 @@
-## Hello, I am Ferhat 
+## Hello, I am Ferhat 👋
 I am a passionate software developer living in Istanbul and studying Software Engineering at Celal Bayar University. I love open source development and I create something on my GitHub profile.
 
 <a href="https://www.linkedin.com/in/ferhatosanoglu/" target="_blank">
@@ -18,7 +18,7 @@ I am a passionate software developer living in Istanbul and studying Software En
 <br><br>
 
 <details>
-  <summary>Github statistics</summary>
+  <summary>📈 Github statistics</summary>
 
   ![ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhatosanoglu&show_icons=true)
   ![ferhat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatosanoglu&layout=compact)
