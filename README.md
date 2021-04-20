@@ -1,5 +1,5 @@
 ## Hello, I am Ferhat 👋
-I am a passionate software developer living in Istanbul and studying Software Engineering at Celal Bayar University. I love open source development and I create something on my GitHub profile.
+I am a passionate software developer and studying Software Engineering at Celal Bayar University. I love project development and I create something on here
 
 <a href="https://www.linkedin.com/in/ferhatosanoglu/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin/ferhatosanoglu" height=20>
