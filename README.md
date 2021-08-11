@@ -16,10 +16,8 @@ I am a passionate software developer and studying Software Engineering at Celal 
 
 
 <br><br>
-
-<details>
   <summary>📈 Github statistics</summary>
+  <hr>
 
-  ![ferhat's github stats](https://github-readme-stats.vercel.app/api?username=ferhatosanoglu&show_icons=true)
+  ![ferhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferhatosanoglu&count_private=true&show_icons=true) 
   ![ferhat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatosanoglu&layout=compact)
-</details>
